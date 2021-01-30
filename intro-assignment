@@ -1,0 +1,8 @@
+<?php
+    $firstName = "Carelyn";
+    $lastName = " Sevilla";
+    $age = "23";
+    $sentence = "My Name is ";
+    echo $sentence . $firstName . $lastName;
+    
+    echo "\n I am $age years old";
